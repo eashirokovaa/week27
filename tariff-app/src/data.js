@@ -21,7 +21,6 @@ export const tariffs = [
         price: "550 руб/мес",
         speed: "до 100 мбит/сек", 
         info:"Объем включенного трафика не ограничен",
-        isSelected: true,
         color: "red",
         priceColor: "redd",
       },
